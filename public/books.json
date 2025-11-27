@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "year": 1988,
+      "rating": 4.7,
+      "reading_time": 7,
+      "description": "A spiritual adventure following Santiago on his journey to find his Personal Legend.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "year": 2018,
+      "rating": 4.9,
+      "reading_time": 4,
+      "description": "A practical guide for building good habits and breaking bad ones using proven psychological principles.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "year": 1949,
+      "rating": 4.8,
+      "reading_time": 6,
+      "description": "A chilling novel depicting a totalitarian regime that controls every aspect of life.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0zfL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic",
+      "year": 1960,
+      "rating": 4.9,
+      "reading_time": 9,
+      "description": "A timeless story about justice, racism, and moral growth in the American South.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81OdwZ9WILL.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "category": "Self-Help",
+      "year": 2016,
+      "rating": 4.6,
+      "reading_time": 2,
+      "description": "A counterintuitive guide to living a better life by caring about fewer things.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "year": 1954,
+      "rating": 4.9,
+      "reading_time": 5,
+      "description": "An epic high-fantasy adventure through Middle-earth to destroy the One Ring.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91e0mBKM9ML.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "category": "Spirituality",
+      "year": 1997,
+      "rating": 4.7,
+      "reading_time": 3,
+      "description": "A guide to achieving inner peace through mindfulness and present-moment awareness.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71X9pP2-3ML.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "year": 1997,
+      "rating": 4.9,
+      "reading_time": 7,
+      "description": "The magical beginning of Harry Potter's journey into the wizarding world.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance",
+      "year": 1997,
+      "rating": 4.8,
+      "reading_time": 4,
+      "description": "A powerful financial education guide contrasting two different approaches to money.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "category": "Thriller",
+      "year": 2019,
+      "rating": 4.7,
+      "reading_time": 6,
+      "description": "A psychological thriller about a woman's act of violence and the therapist obsessed with uncovering her motive.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bPKX7DInL.jpg"
+    }
+  ]
+}
