@@ -1,21 +1,25 @@
 import React from "react";
+import { FaBookmark } from "react-icons/fa";
 
 const Book = ({ book }) => {
   const { id, title, author, category, year, rating, description, image } =
     book;
   return (
     <div className="card card-side bg-base-100 shadow-sm mb-4">
-      <figure className="h-88">
-        <img className="w-full" src={image} alt="Movie" />
-      </figure>
-      <div className="card-body">
-        <h2 className="card-title text-purple-600">{title}</h2>
-        <h6 className="font-semibold">{author}</h6>
-        <small>Author: {category}, Year: {year}, Rating: {rating}</small>
-        <p>{description}</p>
-        <div className="card-actions justify-end">
-          <button className="btn">X</button>
+      <div className="w-2/5 h-50">
+        <img className="w-full h-full rounded-l-lg" src={image} alt="" />
+      </div>
+      <div className="card-body w-3/5">
+        <div className="flex items-center justify-between">
+          <h2 className="card-title text-purple-600">{title}</h2><button className="cursor-pointer"><FaBookmark title="Click for bookmark !!" className="text-rose-500" size={20} /></button>
         </div>
+        <h6 className="font-semibold">{author}</h6>
+        <small>
+          <span className="px-2 py-1 bg-slate-100 mr-1"><span className="font-bold">Author:</span> {category}</span>
+          <span className="px-2 py-1 bg-slate-100 mr-1"><span className="font-bold">Year:</span> {year}</span>
+          <span className="px-2 py-1 bg-slate-100 mr-1"><span className="font-bold">Rating:</span> {rating}</span>
+          </small>
+        <p className="text-gray-500">{description}</p>
       </div>
     </div>
   );

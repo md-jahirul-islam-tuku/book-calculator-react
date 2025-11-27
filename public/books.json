@@ -31,7 +31,7 @@
       "rating": 4.8,
       "reading_time": 6,
       "description": "A chilling novel depicting a totalitarian regime that controls every aspect of life.",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0zfL.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0hBrYZnZbc6jO1JkCfMm-UT5W-d-mdzNBA&s"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "rating": 4.9,
       "reading_time": 9,
       "description": "A timeless story about justice, racism, and moral growth in the American South.",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81OdwZ9WILL.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_TmqJlZDOIoh5KcPLiUxe8j-cNoHtwEZdQ&s"
     },
     {
       "id": 5,
@@ -64,7 +64,7 @@
       "rating": 4.9,
       "reading_time": 5,
       "description": "An epic high-fantasy adventure through Middle-earth to destroy the One Ring.",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91e0mBKM9ML.jpg"
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1730809425-71G58wrbtzL.jpg?crop=1xw:1xh;center,top&resize=980:*"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "rating": 4.7,
       "reading_time": 3,
       "description": "A guide to achieving inner peace through mindfulness and present-moment awareness.",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71X9pP2-3ML.jpg"
+      "image": "https://selfesteemshop.com/wp-content/uploads/2021/08/The-Power-of-Now-Eckhart-Tolle-314806.jpg"
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
       "rating": 4.7,
       "reading_time": 6,
       "description": "A psychological thriller about a woman's act of violence and the therapist obsessed with uncovering her motive.",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bPKX7DInL.jpg"
+      "image": "https://m.media-amazon.com/images/I/81JJPDNlxSL._AC_UF1000,1000_QL80_.jpg"
     }
   ]
 }
