@@ -2,7 +2,7 @@ import React from "react";
 import { FaBookmark } from "react-icons/fa";
 
 const Book = ({ book, handleBookmark }) => {
-  const { id, title, author, category, year, rating, description, image } =
+  const { title, author, category, year, rating, description, image } =
     book;
   return (
     <div className="card card-side bg-base-100 shadow-sm mb-4">
