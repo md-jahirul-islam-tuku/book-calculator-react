@@ -5,7 +5,7 @@ const Book = ({ book, handleBookmark }) => {
   const { title, author, category, year, rating, description, image } =
     book;
   return (
-    <div className="card card-side bg-base-100 shadow-sm mb-4">
+    <div className="card card-side bg-base-100 shadow-md mb-4">
       <div className="w-2/5 h-50">
         <img className="w-full h-full rounded-l-lg" src={image} alt="" />
       </div>

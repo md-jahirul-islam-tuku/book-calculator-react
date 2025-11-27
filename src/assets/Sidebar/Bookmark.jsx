@@ -4,7 +4,7 @@ import { FcReading } from "react-icons/fc";
 const Bookmark = ({ bookmark, readBook, readingTime }) => {
   const { id, title, image, reading_time } = bookmark;
   return (
-    <div className="flex justify-between items-center mb-2 bg-white p-1 rounded">
+    <div className="flex justify-between items-center mb-2 bg-white p-1 rounded shadow">
       <div className="flex items-center">
         <img className="h-10 rounded" src={image} alt="" />
         <div className="mx-2">
